@@ -19,3 +19,4 @@ runs:
     - name: Build ui-react
       shell: bash
       run: npx nx run ui-react:build
+
